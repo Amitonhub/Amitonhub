@@ -1,4 +1,4 @@
-# Hi, I'm Amit Thakur 👋
+# Heyy, I'm Amit Thakur 👋
 
 🚀 Senior Software Developer | MERN Stack Specialist | Scalable Web Applications    
 
